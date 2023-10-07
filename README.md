@@ -1,5 +1,5 @@
 ### Hi there 👋
--👋 Hi, I’m Omar, second year Software Engineering student at McMaster University. I am an upcoming Junior Software Developer at FirstHX.
+-👋 Hi, I’m Omar, third year Software Engineering student at McMaster University. I am an upcoming Junior Software Developer at FirstHX.
 
 -👀 I’m interested in Web Dev and machine learning.  
 -📫 How to reach me:  
