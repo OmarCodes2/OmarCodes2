@@ -1,5 +1,5 @@
 ### Hi there 👋
--👋 Hi, I’m Omar, third year Software Engineering student at McMaster University. I am a Software Developer at Vidyard.
+-👋 Hi, I’m Omar, third-year Software Engineering student at McMaster University. Currently on coop at Canada Life.
 
 -👀 I’m interested in Dev Ops and Fullstack.  
 -📫 How to reach me:  
