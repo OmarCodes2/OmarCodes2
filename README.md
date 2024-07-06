@@ -9,7 +9,7 @@
 I'm an engineering student with a passion for technology and innovation. I love working on projects that solve real-world problems and make a difference.
 
 - 🏢 Currently working at **Canada Life** as a Software Developer co-op.
-- 🚍 Collaborating with **McMaster University** to develop a Shuttle ETA App.
+- 🚍 Leading a team of developers at **McMaster University** to develop a Shuttle ETA App.
 - 💻 Brushing up on my **LeetCode** skills.
 - 🎨 Leading a team of 60 at **McMaster Design League**, where we redefine the meaning of design.
 
@@ -64,4 +64,4 @@ I'm an engineering student with a passion for technology and innovation. I love 
 
 ---
 
-**“Luck is what happens when preparation meets opportunity.”** – Seneca
+# **“Luck is what happens when preparation meets opportunity.”** – Seneca
