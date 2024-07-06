@@ -1,6 +1,6 @@
 # Hi there, I'm Omar Bakr 👋
 
-![Profile Banner](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)
+![Profile Banner](https://i.gifer.com/3AyY.gif)
 
 ## About Me
 
