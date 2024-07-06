@@ -4,45 +4,62 @@
 
 ## About Me
 
-🎓 Engineering Student | 💻 Software Developer | 🚀 Innovator
+🎓 Software Engineering Student | 💻 Software Developer | 🚀 Innovator
 
 I'm an engineering student with a passion for technology and innovation. I love working on projects that solve real-world problems and make a difference.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms** through LeetCode.
-- 📚 Relearning **Calculus 1 and 2** to strengthen my math skills.
-- 🔭 Working on an exciting portfolio project with a unique piano keyboard interface.
+- 🏢 Currently working at **Canada Life** as a Software Developer co-op.
+- 🚍 Collaborating with **McMaster University** to develop a Shuttle ETA App.
+- 💻 Brushing up on my **LeetCode** skills.
 - 🎨 Leading a team of 60 at **McMaster Design League**, where we redefine the meaning of design.
 
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
+![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=githubactions)
+![EKS](https://img.shields.io/badge/-EKS-333?style=flat&logo=amazoneks)
+![DataDog](https://img.shields.io/badge/-DataDog-333?style=flat&logo=datadog)
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarCodes2&show_icons=true&theme=dark)
 
-## 🚀 Projects
+## 💼 Experience
 
-### [Critiqly](https://github.com/your-username/critiqly)
-A monorepo with a front-end and back-end, aimed at providing critical reviews.
+- **Canada Life**  
+  Software Developer | _Toronto, ON_ | _May 2024 - Aug 2024_
 
-### [Portfolio](https://github.com/your-username/portfolio)
-A unique portfolio showcasing my projects and experience, featuring a piano keyboard interface.
+- **Vidyard**  
+  Software Developer | _Waterloo, ON_ | _Jan 2024 - Apr 2024_
 
-### [MDL Discord Bot](https://github.com/your-username/mdl-discord-bot)
-A friendly bot named Caddie that welcomes new members to the McMaster Design League Discord.
+- **FirstHX**  
+  Junior Software Engineer | _Toronto, ON_ | _May 2023 - Dec 2023_
+
+- **McMaster Design League**  
+  Tech Lead | _Hamilton, ON_ | _Mar 2024 - Present_
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/omarbakr03/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:1bakromar@gmail.com)
 
 ---
 
-*“Innovation distinguishes between a leader and a follower.”* – Steve Jobs
+*“Luck is what happens when preparation meets opportunity.”* – Seneca
