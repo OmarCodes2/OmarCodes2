@@ -1,6 +1,6 @@
 # Hi there, I'm Omar Bakr 👋
 
-![Profile Banner](https://i.gifer.com/3AyY.gif)
+![Profile Banner](https://sm.ign.com/ign_pt/screenshot/default/anime-hacking-computer-gif_qjk6.gif)
 
 ## About Me
 
