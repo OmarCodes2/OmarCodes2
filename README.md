@@ -37,23 +37,25 @@ I'm an engineering student with a passion for technology and innovation. I love 
 ![EKS](https://img.shields.io/badge/-EKS-333?style=flat&logo=amazoneks)
 ![DataDog](https://img.shields.io/badge/-DataDog-333?style=flat&logo=datadog)
 
-## 📈 GitHub Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarCodes2&show_icons=true&theme=dark)
-
 ## 💼 Experience
 
 - **Canada Life**  
-  Software Developer | _Toronto, ON_ | _May 2024 - Aug 2024_
+  Software Developer | _Toronto, ON_ | _May 2024 - August 2024_
 
 - **Vidyard**  
-  Software Developer | _Waterloo, ON_ | _Jan 2024 - Apr 2024_
+  Software Developer | _Waterloo, ON_ | _January 2024 - April 2024_
 
 - **FirstHX**  
-  Junior Software Engineer | _Toronto, ON_ | _May 2023 - Dec 2023_
+  Junior Software Developer | _Toronto, ON_ | _May 2023 - December 2023_
+
+- **Prolancify**  
+  Full-Stack Developer, API Integrations | _January 2023 - March 2023_
+
+- **AdMass**  
+  Full-Stack Developer | _October 2022 - January 2023_
 
 - **McMaster Design League**  
-  Tech Lead | _Hamilton, ON_ | _Mar 2024 - Present_
+  Co-President | _July 2022 - Present_
 
 ## 🌐 Connect with Me
 
@@ -62,4 +64,4 @@ I'm an engineering student with a passion for technology and innovation. I love 
 
 ---
 
-*“Luck is what happens when preparation meets opportunity.”* – Seneca
+**“Luck is what happens when preparation meets opportunity.”** – Seneca
