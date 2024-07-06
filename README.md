@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Omar Bakr 👋
 
 ![Profile Banner](https://your-banner-url.com/banner.png)
 
