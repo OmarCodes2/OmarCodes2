@@ -64,4 +64,5 @@ I'm an engineering student with a passion for technology and innovation. I love 
 
 ---
 
-# **“Luck is what happens when preparation meets opportunity.”** – Seneca
+# **“Luck is what happens when preparation meets opportunity.”**
+– Seneca
